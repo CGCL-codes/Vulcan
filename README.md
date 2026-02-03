@@ -2,7 +2,7 @@
 
 ## 🌀 What is Vulcan?
 <div align="center">
-  <img src="img/overview.jpg" style="width:67%;">
+  <img src="img/overview.png" style="width:67%;">
 </div>
 
 🚀 Vulcan is a novel approach for deriving compact, class-specific Vision Transformers (ViTs) tailored for resource-constrained edge devices. 
